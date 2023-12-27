@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "5UDpERNF2pYNwH19TPtD67nQblV2iyvYtoHq61k0xKC6EotgVc3dq+czFIY/D3WTDfck377v06MEDByKPZ9IoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marri\\Documents\\RomDisk\\RomDisk\\RomDisk.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marri\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\marri\\.nuget\\packages\\ramdisk\\1.0.5\\ramdisk.1.0.5.nupkg.sha512",
+    "C:\\Users\\marri\\.nuget\\packages\\squid-box.sevenzipsharp\\1.6.1.23\\squid-box.sevenzipsharp.1.6.1.23.nupkg.sha512",
+    "C:\\Users\\marri\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\marri\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\marri\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\marri\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\marri\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
